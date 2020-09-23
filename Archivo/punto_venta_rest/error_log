@@ -1,0 +1,133 @@
+[21-Jul-2020 15:33:40 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 15:33:40 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 15:34:05 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 15:34:05 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 15:34:11 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 15:34:11 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 15:34:13 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 15:34:13 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 15:34:51 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 15:34:51 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 16:17:30 America/Asuncion] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 43
+[21-Jul-2020 16:17:44 America/Asuncion] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 43
+[21-Jul-2020 16:19:44 America/Asuncion] PHP Warning:  utf8_encode() expects parameter 1 to be string, array given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 43
+[21-Jul-2020 16:20:01 America/Asuncion] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 43
+[21-Jul-2020 16:28:36 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:28:36 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:28:36 America/Asuncion] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 44
+[21-Jul-2020 16:28:36 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:28:36 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:28:36 America/Asuncion] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 44
+[21-Jul-2020 16:28:37 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:28:37 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:28:37 America/Asuncion] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 44
+[21-Jul-2020 16:28:37 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:28:37 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:28:37 America/Asuncion] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 44
+[21-Jul-2020 16:28:37 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:28:37 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:28:37 America/Asuncion] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 44
+[21-Jul-2020 16:35:20 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:35:20 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 16:35:20 America/Asuncion] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 44
+[21-Jul-2020 17:17:46 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 17:17:46 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 17:17:46 America/Asuncion] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 44
+[21-Jul-2020 17:17:55 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 17:17:55 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 41
+[21-Jul-2020 17:17:55 America/Asuncion] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 44
+[21-Jul-2020 17:18:39 America/Asuncion] PHP Notice:  Undefined variable: id_usuario in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 25
+[21-Jul-2020 17:18:39 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 17:18:39 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[21-Jul-2020 17:19:12 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 44
+[21-Jul-2020 17:19:12 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 44
+[21-Jul-2020 17:19:12 America/Asuncion] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 44
+[21-Jul-2020 17:19:50 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 44
+[21-Jul-2020 17:19:50 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 44
+[21-Jul-2020 17:19:50 America/Asuncion] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 44
+[21-Jul-2020 17:24:08 America/Asuncion] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php:48) in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 49
+[21-Jul-2020 17:25:52 America/Asuncion] PHP Fatal error:  Uncaught LogicException: Not json: 5 - Malformed UTF-8 characters, possibly incorrectly encoded in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 51
+[21-Jul-2020 17:26:01 America/Asuncion] PHP Fatal error:  Uncaught LogicException: Not json: 5 - Malformed UTF-8 characters, possibly incorrectly encoded in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 51
+[21-Jul-2020 17:26:20 America/Asuncion] PHP Fatal error:  Uncaught LogicException: Not json: 5 - Malformed UTF-8 characters, possibly incorrectly encoded in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 51
+[21-Jul-2020 17:28:59 America/Asuncion] PHP Warning:  array_walk_recursive() expects parameter 1 to be array, bool given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 44
+[22-Jul-2020 08:08:31 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 15
+[22-Jul-2020 08:08:31 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 16
+[22-Jul-2020 08:08:31 America/Asuncion] PHP Notice:  Undefined index: parametro in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 17
+[22-Jul-2020 08:08:31 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 15
+[22-Jul-2020 08:08:31 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 16
+[23-Jul-2020 11:45:19 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 15
+[23-Jul-2020 11:45:19 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 15
+[23-Jul-2020 11:45:19 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 16
+[23-Jul-2020 11:45:20 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 16
+[23-Jul-2020 11:45:20 America/Asuncion] PHP Notice:  Undefined index: parametro in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 17
+[24-Jul-2020 09:31:28 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 43
+[24-Jul-2020 09:31:28 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 43
+[24-Jul-2020 09:31:28 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 43
+[24-Jul-2020 09:31:28 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listar_productos.php on line 43
+[24-Jul-2020 09:55:49 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 15
+[24-Jul-2020 09:55:49 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 16
+[24-Jul-2020 09:55:49 America/Asuncion] PHP Notice:  Undefined index: parametro in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 17
+[24-Jul-2020 09:55:49 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 15
+[24-Jul-2020 09:55:49 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 16
+[05-Aug-2020 10:54:15 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[05-Aug-2020 10:54:15 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[05-Aug-2020 10:55:53 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[05-Aug-2020 10:55:53 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[05-Aug-2020 10:55:53 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[05-Aug-2020 10:55:53 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 33
+[05-Aug-2020 10:58:10 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 11
+[05-Aug-2020 10:58:10 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 11
+[05-Aug-2020 10:58:10 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 11
+[05-Aug-2020 10:58:10 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 11
+[05-Aug-2020 10:58:10 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 11
+[05-Aug-2020 10:58:10 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/functions.php on line 11
+[05-Aug-2020 11:00:36 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 78
+[05-Aug-2020 11:00:36 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 78
+[05-Aug-2020 11:00:44 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 78
+[05-Aug-2020 11:00:44 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 78
+[05-Aug-2020 11:02:12 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 78
+[05-Aug-2020 11:02:12 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 78
+[05-Aug-2020 11:03:11 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 78
+[05-Aug-2020 11:03:11 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 78
+[05-Aug-2020 11:06:12 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:06:12 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:07:11 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:07:11 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:07:15 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:07:15 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:07:51 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:07:51 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:11:03 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:11:03 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:11:55 America/Asuncion] PHP Notice:  Undefined variable: datosJson in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:11:55 America/Asuncion] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/qxd7a7wrklnu/public_html/punto_venta_rest/informes.php on line 83
+[05-Aug-2020 11:20:07 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 15
+[05-Aug-2020 11:20:07 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 16
+[05-Aug-2020 11:20:08 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 15
+[05-Aug-2020 11:20:08 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 16
+[11-Aug-2020 09:03:49 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 15
+[11-Aug-2020 09:03:49 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 15
+[11-Aug-2020 09:03:49 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 16
+[11-Aug-2020 09:03:49 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 16
+[11-Aug-2020 09:03:49 America/Asuncion] PHP Notice:  Undefined index: parametro in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 17
+[11-Aug-2020 09:06:00 America/Asuncion] PHP Notice:  Undefined index: codigoProducto in /home/qxd7a7wrklnu/public_html/punto_venta_rest/add_product_to_pedido.php on line 17
+[12-Aug-2020 09:04:06 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 15
+[12-Aug-2020 09:04:06 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 16
+[12-Aug-2020 09:04:06 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 15
+[12-Aug-2020 09:04:06 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 16
+[12-Aug-2020 09:04:06 America/Asuncion] PHP Notice:  Undefined index: parametro in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 17
+[14-Aug-2020 06:50:41 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 15
+[14-Aug-2020 06:50:41 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/permission.php on line 16
+[14-Aug-2020 06:50:41 America/Asuncion] PHP Notice:  Undefined index: data in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 15
+[14-Aug-2020 06:50:41 America/Asuncion] PHP Notice:  Undefined index: pruebaData in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 16
+[14-Aug-2020 06:50:41 America/Asuncion] PHP Notice:  Undefined index: parametro in /home/qxd7a7wrklnu/public_html/punto_venta_rest/listarPedidos.php on line 17
+[19-Aug-2020 11:23:04 America/Asuncion] PHP Notice:  Undefined index: codigoProducto in /home/qxd7a7wrklnu/public_html/punto_venta_rest/add_product_to_pedido.php on line 17

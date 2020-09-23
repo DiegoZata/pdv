@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Cerrar Caja</title>
+    <link type="text/css" rel="stylesheet" href="css/styles.css">
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  </head>
+  <body>
+    <header>
+      <!-- Este contenido se estira de funciones.js -->
+    </header>
+    <div class="main-container">
+      <div class="main-title">
+        <i class="short material-icons">attach_money</i>
+        <p>Cerrar Caja</p>
+        <a href="#" id="printCaja">Descargar PDF</a>
+      </div>
+      <div id="customers2">
+        <h5 style="opacity: 0; position: absolute;">Cierre de caja</h5>
+        <h6 id="HoraActual" style="opacity: 0; position: absolute;"> </h6>
+        <h6 style="opacity: 0; position: absolute;" class="cerrar-caja-user"></h6>
+        <table class="highlight z-depth-1" id="listaProductosPrint">
+          <colgroup>
+            <col width="33%">
+            <col width="33%">
+            <col width="33%">
+          </colgroup>
+          <thead>
+            <tr>
+                <th>Fondo de Caja</th>
+                <th>Ventas</th>
+                <th>Total en caja</th>
+            </tr>
+          </thead>
+  
+          <tbody>
+            <tr>
+              <td id="cc_fondoCaja"></td>
+              <td id="cc_totalVenta"></td>
+              <td id="cc_totalCaja"></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div id="modalAperturaCaja" class="modal">
+        <div class="modal-content">
+          <h4>Apertura de caja</h4>
+        </div>
+        <div class="modal-cuerpo">
+          <div class="modal-cuerpo-cobrar">
+            <div id="fondoCaja">
+              <span>Fondo de caja:</span> <input type="number" id="fondoDeCaja" value="0" placeholder="efectivo: " min="0">
+            </div>
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <input type="submit" name="" value="Abrir Caja" class="btnAperturaCaja" style="width:100%">
+        </div>
+      </div>
+
+    </div>
+
+    </div>
+  </body>
+  <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="js/materialize.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.3/jspdf.min.js"></script>
+  <script type="text/javascript" src="js/config.js"></script>
+  <script type="text/javascript" src="js/funciones.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+        
+        preguntarSession();
+
+        $('.sidenav').sidenav();
+
+        showTime();
+        $(".cerrar-caja-user").text("Cajero/a: "+localStorage.getItem('nombre'));
+
+        $("#printCaja").click(function(e){
+            e.preventDefault();
+            javascript:demoFromHTML('customers2');
+            
+        });
+
+        cierreDeCaja();
+    });
+  </script>
+</html>

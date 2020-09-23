@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head><meta charset="utf-8">
+    
+    <title>Informes</title>
+    <link type="text/css" rel="stylesheet" href="css/styles.css">
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  </head>
+  <body>
+    <header>
+      <!-- Este contenido se estira de funciones.js -->
+    </header>
+    <div class="main-container">
+      <div class="main-title">
+        <i class="short material-icons">view_list</i>
+        <p>Historial de ventas</p>
+        <a href="#" id="printCaja">Descargar PDF</a>
+      </div>
+      <div class="formFiltro">
+        <h5>Filtrar</h5>
+        <form action="#" method="POST" id="filterInformes">
+          <section>
+            <div class="filtroInputs">
+              <input type="text" name="" id="filterCodProduct" placeholder="Código Producto">
+              <input type="number" name="" id="filterNroPedido" placeholder="Número Pedido">
+            </div>
+            <div class="filtroFechas">
+              <div>
+                <p>Desde:</p>
+                <input type="date" id="filterDateDesde">
+              </div>
+              <div>
+                <p>Hasta:</p>
+                <input type="date" id="filterDateHasta">
+              </div>
+            </div>
+          </section>  
+          <input type="submit" value="Filtrar">
+          <div class="cargando">
+            <div class="preloader-wrapper small active">
+              <div class="spinner-layer spinner-green-only">
+                <div class="circle-clipper left">
+                  <div class="circle"></div>
+                </div><div class="gap-patch">
+                  <div class="circle"></div>
+                </div><div class="circle-clipper right">
+                  <div class="circle"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+      <table class="highlight z-depth-1" id="tablaInformes">
+        <colgroup>
+          <col width="20%">
+          <col width="10%">
+          <col width="20%">
+          <col width="10%">
+          <col width="20%">
+        </colgroup>
+        <thead>
+          <tr>
+              <th>Cód. Producto</th>
+              <th>Nro. Pedido</th>
+              <th>Producto</th>
+              <th>Cant. ventas</th>
+              <th>Fecha Venta</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      <div id="customers">
+        <h5>Informe de ventas</h5>
+        <h6 id="HoraActual" style="opacity: 0; position: absolute;"> </h6>
+        
+        <table class="highlight z-depth-1" id="tablaInformesPrint">
+          <colgroup>
+            <col width="20%">
+            <col width="15%">
+            <col width="20%">
+            <col width="15%">
+            <col width="20%">
+          </colgroup>
+          <thead>
+            <tr>
+                <th>Cód. Producto</th>
+                <th>Nro. Pedido</th>
+                <th>Producto</th>
+                <th>Cant. ventas</th>
+                <th>Fecha Venta</th>
+            </tr>
+          </thead>
+  
+          <tbody>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+
+    </div>
+  </body>
+  <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="js/materialize.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.3/jspdf.min.js"></script>
+  <script type="text/javascript" src="js/config.js"></script>
+  <script type="text/javascript" src="js/funciones.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+
+      $('.sidenav').sidenav();
+
+      preguntarSession();
+
+      informes();
+
+      showTime();
+
+      $("#printCaja").click(function(e){
+          e.preventDefault();
+          javascript:demoFromHTML('customers');           
+      });
+    });
+  </script>
+</html>
